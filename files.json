@@ -1,0 +1,137 @@
+{
+  "type": "folder",
+  "name": "SUPPLEMENTARY-PDF",
+  "children": [
+    {
+      "type": "file",
+      "name": "A_COLLECTION_OF_QUESTIONS_AND_PROBLEMS_IN_PHYSICS.pdf",
+      "path": "A_COLLECTION_OF_QUESTIONS_AND_PROBLEMS_IN_PHYSICS.pdf",
+      "sha": "e8b378c0301db90c05403f1da48b704fca6d044d",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "A_GENERAL_COURSE_ELECTRICITY_MAGNETISM_WAVES_AND_OPTICS_VOL_2.pdf",
+      "path": "A_GENERAL_COURSE_ELECTRICITY_MAGNETISM_WAVES_AND_OPTICS_VOL_2.pdf",
+      "sha": "cf71b12f48ed55cfc4e02022f309dce62b6d3036",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "A_GENERAL_COURSE_MECHANICS_AND_MOLECULAR_PHYSICS_VOL_1.pdf",
+      "path": "A_GENERAL_COURSE_MECHANICS_AND_MOLECULAR_PHYSICS_VOL_1.pdf",
+      "sha": "0d7c1466bd668a9d6ec764949bfbedfef6151b36",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "A_GENERAL_COURSE_QUANTUM_OPTICS_ATOMIC_AND_SOLID_STATE_PHYSICS_VOL_3.pdf",
+      "path": "A_GENERAL_COURSE_QUANTUM_OPTICS_ATOMIC_AND_SOLID_STATE_PHYSICS_VOL_3.pdf",
+      "sha": "6a0ed07f41c38494d9eae4b7c43713755ebf5ed2",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "ATKINS_PHYSICAL_CHEMISTRY.pdf",
+      "path": "ATKINS_PHYSICAL_CHEMISTRY.pdf",
+      "sha": "db0e43fc81a99e4feab568af6c8a5efe7886ba18",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "BASIC_INORGANIC_CHEMISTRY.pdf",
+      "path": "BASIC_INORGANIC_CHEMISTRY.pdf",
+      "sha": "bd6abb2165a6be1ae8041e2fb2a70b9c2e1035ff",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "CONCISE_INORGANIC_CHEMISTRY_FIFTH_EDITION.pdf",
+      "path": "CONCISE_INORGANIC_CHEMISTRY_FIFTH_EDITION.pdf",
+      "sha": "d145b472c3ce482a4d25119605351a37ad79c7f3",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "ELECTRICITY_AND_MAGNETISM_MATVEEV.pdf",
+      "path": "ELECTRICITY_AND_MAGNETISM_MATVEEV.pdf",
+      "sha": "53c47c0250f499fbdea9f498bc60d8b377f94b31",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "FUNDAMENTALS_OF_PHYSICS_VOL_1.pdf",
+      "path": "FUNDAMENTALS_OF_PHYSICS_VOL_1.pdf",
+      "sha": "ad56770a2c84d998d1bf3372d63b36144bb23f0d",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "FUNDAMENTALS_OF_PHYSICS_VOL_2.pdf",
+      "path": "FUNDAMENTALS_OF_PHYSICS_VOL_2.pdf",
+      "sha": "56c9dc31d576d38cc9278df7f767e0ed1015a0c3",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "FUNDAMENTALS_OF_THEORETICAL_PHYSICS_VOL_1.pdf",
+      "path": "FUNDAMENTALS_OF_THEORETICAL_PHYSICS_VOL_1.pdf",
+      "sha": "59e771c6dbe0ed3ef4633c1fb2c12f83d10a5bb5",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "FUNDAMENTALS_OF_THEORETICAL_PHYSICS_VOL_2.pdf",
+      "path": "FUNDAMENTALS_OF_THEORETICAL_PHYSICS_VOL_2.pdf",
+      "sha": "f91154b4ffd5b267f413fa92a066a1c9321f532c",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "GENERAL_CHEMISTRY_VOL_1_GLINKA.pdf",
+      "path": "GENERAL_CHEMISTRY_VOL_1_GLINKA.pdf",
+      "sha": "5616285d2d4749cbf2209f8f31e66af041bc5f26",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "MODERN_APPROACH_TO_CHEMICAL_CALCULATIONS_R_C_MUKHERJEE.pdf",
+      "path": "MODERN_APPROACH_TO_CHEMICAL_CALCULATIONS_R_C_MUKHERJEE.pdf",
+      "sha": "5ed57fb7020a6723ceaf4b1028e4aa29b88902c8",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "MOLECULAR_PHYSICS.pdf",
+      "path": "MOLECULAR_PHYSICS.pdf",
+      "sha": "dac1d0d931af0456623405a09836d86738f302de",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "PROBLEMS_IN_GENERAL_PHYSICS_IRODOV.pdf",
+      "path": "PROBLEMS_IN_GENERAL_PHYSICS_IRODOV.pdf",
+      "sha": "237c8ab1703f6f9ff239ce4e53ffa8365f252d14",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "PROBLEMS_IN_GENERAL_PHYSICS_V_S_WOLKENSTEIN.pdf",
+      "path": "PROBLEMS_IN_GENERAL_PHYSICS_V_S_WOLKENSTEIN.pdf",
+      "sha": "cfb5d441287cf2743e969806833cae4ebed4cb07",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "file",
+      "name": "PROBLEMS_IN_PHYSICAL_CHEMISTRY_NARENDRA_AWASTHI.pdf",
+      "path": "PROBLEMS_IN_PHYSICAL_CHEMISTRY_NARENDRA_AWASTHI.pdf",
+      "sha": "54a6e21577bd0e5205d42aea773dc12f3d3c7319",
+      "mime": "application/pdf"
+    },
+    {
+      "type": "folder",
+      "name": "tests",
+      "children": []
+    }
+  ]
+}
